@@ -1,1 +1,3 @@
-# Tarea2
+Tarea número 2
+
+Verificar circulos 
